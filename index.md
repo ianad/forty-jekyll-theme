@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Ian'
 description: null
-image: 'style-banner.jpg'
+image: 'style_banner.jpg'
 author: null
 show_tile: false
 ---
