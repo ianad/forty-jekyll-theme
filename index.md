@@ -3,7 +3,11 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Ian'
 description: null
+<<<<<<< HEAD
 image: 'style_banner.jpg'
+=======
+image: null
+>>>>>>> parent of 2c0345a... test asset replacement
 author: null
 show_tile: false
 ---
